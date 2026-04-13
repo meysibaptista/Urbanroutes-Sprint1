@@ -43,7 +43,7 @@ A interface do aplicativo é simples e contém:
 
 A equipe de QA preparou casos de teste para o teste de regressão do Urban Routes.
 
-Seu objetivo é:
+Meu objetivo foi:
 
 - Executar os casos de teste
 - Definir um status apropriado para cada teste
